@@ -1,0 +1,14 @@
+/*:root {
+    TODO: Definir cores, criar variaveis externas e importar aqui
+}*/
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ 
+html {
+    font-family: 'Quicksand', sans-serif; 
+    font-size: 18px;
+}
