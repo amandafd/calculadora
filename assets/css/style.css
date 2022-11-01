@@ -1,7 +1,3 @@
-/*:root {
-    TODO: Definir cores, criar variaveis externas e importar aqui
-}*/
-
 * {
     padding: 0;
     margin: 0;
@@ -9,6 +5,75 @@
 }
  
 html {
-    font-family: 'Quicksand', sans-serif; 
-    font-size: 18px;
+    font-size: 16px;
+}
+
+body {
+    background-color: #000;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    color: #fff;
+    padding: 1.06rem;
+    outline: none;
+    border-radius: 25%;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.9rem;
+}
+
+.num {
+    width: 4rem;
+    height: 4.19rem;
+}
+
+.text {
+    width: 13rem;
+    height: 1.6rem;
+    border-radius: 1.4rem;
+    letter-spacing: 0.3rem;
+    text-align: center;
+    margin-bottom: 0.75rem;
+}
+
+.text1 {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    letter-spacing: 0.3rem;
+    text-align: center;
+    margin-bottom: 0.75rem;
+    cursor: pointer;
+}
+
+main {
+    display: inline-block;
+}
+
+.maincolor {
+    background-color: #000;
+}
+
+.blue {
+    background-color: #0Cd0Cd;
+}
+
+.pin {
+    background-color: #Cf1596;
+}
+
+.gre {
+    background-color: #AAD800;
+}
+
+.pur {
+    background-color: #8C52FF;
+}
+
+.ora {
+    background-color: #FCB707;
 }
