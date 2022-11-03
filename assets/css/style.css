@@ -26,7 +26,7 @@ input {
     font-size: 1.9rem;
 }
 
-.num {
+.btn {
     width: 4rem;
     height: 4.19rem;
 }
@@ -54,26 +54,26 @@ main {
     display: inline-block;
 }
 
-.maincolor {
+.btn__maincolor {
     background-color: #000;
 }
 
-.blue {
+.btn__add {
     background-color: #000e68;
 }
 
-.pin {
+.btn__sub {
     background-color: #67004d;
 }
 
-.gre {
+.btn__mul {
     background-color: #00460f;
 }
 
-.pur {
+.btn__eql {
     background-color: #36005c;
 }
 
-.red {
+.btn__div {
     background-color: #570000;
 }
