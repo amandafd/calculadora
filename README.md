@@ -1,12 +1,12 @@
 <h1 align="center">Calculadora</h1>
 
 <div align-items="center">
-  <img src="/assets/imagens/screenshot.jpg" align="right" alt="Screenshot do projeto">
+  <img src="/assets/imagens/screenshot.jpg" align="left" alt="Screenshot do projeto">
 </div></br>
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/%C3%BAltima%20atualiza%C3%A7%C3%A3o-outubro%202022-blue" align="center" alt="Badge última atualização em outubro de 2022" /></a> 
-  <a href=""><img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellowgreen" align="center" alt="Badge status em desenvolvimento" /></a>
+  <a href=""><img src="https://img.shields.io/badge/status-conclu%C3%ADdo-green" align="center" alt="Badge status concluído" /></a>
   <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="Badge HTML" /></a>
   <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="Badge CSS" /></a>
   <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center" alt="Badge Javascript" /></a>
