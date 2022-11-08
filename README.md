@@ -1,8 +1,8 @@
 <h1 align="center">Calculadora</h1>
 
-<!--<div align-items="center">
-  <img src="" align="right" alt="Screenshot do projeto">
-</div></br>-->
+<div align-items="center">
+  <img src="/assets/imagens/screenshot.jpg" align="right" alt="Screenshot do projeto">
+</div></br>
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/%C3%BAltima%20atualiza%C3%A7%C3%A3o-outubro%202022-blue" align="center" alt="Badge última atualização em outubro de 2022" /></a> 
@@ -37,7 +37,7 @@
 
 <h3 id="aprendizados">Aprendizados</h3>
 <ul>Os aprendizados reforçados e adquiridos durante a execução desse projeto serão atualizados constantemente:
-  <li></li>
+  <li>Manipulação básica e operações de dados</li>
 </ul> 
 
 <h2 id="autora" align="left">Autora</h2>
