@@ -77,3 +77,9 @@ main {
 .btn__div {
     background-color: #570000;
 }
+
+@media (max-width: 290px) {
+    html {
+        font-size: 12px;
+    }
+}
